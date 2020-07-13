@@ -15,7 +15,7 @@ int main()
 		for (int i = 0; i < n; ++i)
 			cin>>arr[i];
       
-    cout<<longestSubsequence(n, arr[])<<endl;
+    cout<<longestSubsequence(n, arr)<<endl;
   }
 }
 
